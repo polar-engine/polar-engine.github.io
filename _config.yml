@@ -1,0 +1,10 @@
+# Site settings
+title: Polar Game Engine
+description: >
+  Polar Game Engine is a modern, safe game engine written in Haskell.
+baseurl: ""
+url: "https://polarengine.org"
+github_username: polar-engine
+
+# Build settings
+markdown: kramdown
